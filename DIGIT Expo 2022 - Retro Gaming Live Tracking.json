@@ -1,0 +1,66 @@
+
+SHEETS
+{"qInfo":{"qId":"7146f545-0041-4b96-9273-c712c22d1357","qType":"sheet"},"qMeta":{"title":"Leaderboard","description":"","_resourcetype":"app.object","_objecttype":"sheet","id":"7146f545-0041-4b96-9273-c712c22d1357","approved":false,"published":true,"owner":"auth0|a08D000001F1roDIAR","ownerId":"62c3181d0ccb314049aba5a0","createdDate":"2022-11-07T18:44:44.158Z","modifiedDate":"2023-02-09T10:53:02.647Z","publishTime":"2023-02-09T10:53:02.647Z","privileges":["read","publish","change_owner"]},"qData":[]}
+{"qInfo":{"qId":"80d19b8a-417f-4a17-823f-5edd418e2722","qType":"sheet"},"qMeta":{"title":"Full Standings","description":"","_resourcetype":"app.object","_objecttype":"sheet","id":"80d19b8a-417f-4a17-823f-5edd418e2722","approved":false,"published":true,"owner":"auth0|a08D000001F1roDIAR","ownerId":"62c3181d0ccb314049aba5a0","createdDate":"2022-11-07T22:28:52.278Z","modifiedDate":"2023-02-09T10:53:00.997Z","publishTime":"2023-02-09T10:53:00.997Z","privileges":["read","publish","change_owner"]},"qData":[]}
+{"qInfo":{"qId":"edda1371-6cff-434c-8300-da98f564d2f4","qType":"sheet"},"qMeta":{"title":"Dashboard","description":"","_resourcetype":"app.object","_objecttype":"sheet","id":"edda1371-6cff-434c-8300-da98f564d2f4","approved":false,"published":true,"owner":"auth0|a08D000001F1roDIAR","ownerId":"62c3181d0ccb314049aba5a0","createdDate":"2022-11-07T22:21:11.405Z","modifiedDate":"2023-02-09T10:52:59.315Z","publishTime":"2023-02-09T10:52:59.315Z","privileges":["read","publish","change_owner"]},"qData":[]}
+
+OBJECTS ON SHEETS
+{"name":"c20b878d-4468-43f6-8c16-6651e245669c","type":"text-image","col":2,"row":4,"colspan":6,"rowspan":8,"bounds":{"x":8.333333333333332,"y":33.33333333333333,"width":25,"height":66.66666666666666}}
+{"name":"33876cfe-d7cc-4f65-b5cf-97f0afd7e53f","type":"text-image","col":9,"row":4,"colspan":6,"rowspan":8,"bounds":{"x":37.5,"y":33.33333333333333,"width":25,"height":66.66666666666666}}
+{"name":"d4069cb3-3073-43de-a3ef-a4ad830faf30","type":"text-image","col":16,"row":4,"colspan":6,"rowspan":8,"bounds":{"y":33.33333333333333,"x":66.66666666666666,"width":25,"height":66.66666666666666}}
+{"name":"gtvhqX","type":"container","col":9,"row":1,"colspan":6,"rowspan":3,"bounds":{"y":8.333333333333332,"x":37.5,"width":25,"height":25}}
+{"name":"dbSFH","type":"container","col":2,"row":1,"colspan":6,"rowspan":3,"bounds":{"y":8.333333333333332,"x":8.333333333333332,"width":25,"height":25}}
+{"name":"pEMqry","type":"text-image","col":2,"row":0,"colspan":21,"rowspan":1,"bounds":{"y":0,"x":8.333333333333332,"width":87.5,"height":8.333333333333332}}
+{"name":"NjrqZ","type":"container","col":16,"row":1,"colspan":6,"rowspan":3,"bounds":{"y":8.333333333333332,"x":66.66666666666666,"width":25,"height":25}}
+{"name":"rSpxG","type":"table","col":1,"row":1,"colspan":15,"rowspan":10,"bounds":{"y":8.333333333333332,"x":4.166666666666666,"width":62.5,"height":83.33333333333334}}
+{"name":"Lxwrj","type":"text-image","col":16,"row":2,"colspan":7,"rowspan":4,"bounds":{"y":16.666666666666664,"x":66.66666666666666,"width":29.166666666666668,"height":33.33333333333333}}
+{"name":"PtWxyte","type":"text-image","col":16,"row":7,"colspan":7,"rowspan":4,"bounds":{"y":58.333333333333336,"x":66.66666666666666,"width":29.166666666666668,"height":33.33333333333333}}
+{"name":"CDfeHw","type":"text-image","col":16,"row":1,"colspan":7,"rowspan":1,"bounds":{"y":8.333333333333332,"x":66.66666666666666,"width":29.166666666666668,"height":8.333333333333332}}
+{"name":"fmkFUF","type":"text-image","col":16,"row":6,"colspan":7,"rowspan":1,"bounds":{"y":50,"x":66.66666666666666,"width":29.166666666666668,"height":8.333333333333332}}
+{"name":"CJfURq","type":"text-image","col":1,"row":0,"colspan":23,"rowspan":1,"bounds":{"y":0,"x":4.166666666666666,"width":95.83333333333334,"height":8.333333333333332}}
+{"name":"nryucJ","type":"kpi","col":12,"row":5,"colspan":5,"rowspan":3,"bounds":{"x":50,"y":41.66666666666667,"width":20.833333333333336,"height":25}}
+{"name":"SpAG","type":"kpi","col":18,"row":8,"colspan":5,"rowspan":3,"bounds":{"y":66.66666666666666,"x":75,"width":20.833333333333336,"height":25}}
+{"name":"ehVBJP","type":"kpi","col":12,"row":8,"colspan":5,"rowspan":3,"bounds":{"x":50,"y":66.66666666666666,"width":20.833333333333336,"height":25}}
+{"name":"prPYJc","type":"action-button","col":18,"row":0,"colspan":5,"rowspan":2,"bounds":{"x":75,"y":0,"width":20.833333333333336,"height":16.666666666666664}}
+{"name":"mjcTjWE","type":"text-image","col":2,"row":5,"colspan":9,"rowspan":6,"bounds":{"y":41.66666666666667,"x":8.333333333333332,"width":37.5,"height":50}}
+{"name":"FNjmrbz","type":"kpi","col":18,"row":5,"colspan":5,"rowspan":3,"bounds":{"y":41.66666666666667,"x":75,"width":20.833333333333336,"height":25}}
+{"name":"PdwWwr","type":"text-image","col":2,"row":0,"colspan":9,"rowspan":5,"bounds":{"x":8.333333333333332,"y":0,"width":37.5,"height":41.66666666666667}}
+{"name":"VpvMWXZ","type":"text-image","col":12,"row":2,"colspan":11,"rowspan":3,"bounds":{"y":16.666666666666664,"x":50,"width":45.83333333333333,"height":25}}
+{"name":"pJKVFXF","type":"action-button","col":12,"row":0,"colspan":5,"rowspan":2,"bounds":{"y":0,"x":50,"width":20.833333333333336,"height":16.666666666666664}}
+
+DIMENSIONS
+{"qInfo":{"qId":"1d1f55a4-a991-4be0-9c70-ad728f0a18e0","qType":"dimension"},"qMeta":{"title":"Track","description":"","tags":[],"_resourcetype":"app.object","_objecttype":"dimension","id":"1d1f55a4-a991-4be0-9c70-ad728f0a18e0","approved":false,"published":false,"owner":"auth0|a08D000001F1roDIAR","ownerId":"62c3181d0ccb314049aba5a0","createdDate":"2022-11-08T01:06:33.754Z","modifiedDate":"2022-11-08T01:06:33.754Z","privileges":["read","update","delete","publish","change_owner"]},"qData":[]}
+{"qInfo":{"qId":"e9d7aa52-7660-4272-90ee-a85ac424ce51","qType":"dimension"},"qMeta":{"title":"Driver","description":"","tags":[],"_resourcetype":"app.object","_objecttype":"dimension","id":"e9d7aa52-7660-4272-90ee-a85ac424ce51","approved":false,"published":false,"owner":"auth0|a08D000001F1roDIAR","ownerId":"62c3181d0ccb314049aba5a0","createdDate":"2022-11-08T01:06:28.381Z","modifiedDate":"2022-11-08T01:06:28.381Z","privileges":["read","update","delete","publish","change_owner"]},"qData":[]}
+{"qInfo":{"qId":"8c7ad470-c5e2-41ec-a086-1ff29dfc38f9","qType":"dimension"},"qMeta":{"title":"Email","description":"","tags":[],"_resourcetype":"app.object","_objecttype":"dimension","id":"8c7ad470-c5e2-41ec-a086-1ff29dfc38f9","approved":false,"published":false,"owner":"auth0|a08D000001F1roDIAR","ownerId":"62c3181d0ccb314049aba5a0","createdDate":"2022-11-08T01:06:28.382Z","modifiedDate":"2022-11-08T01:06:28.382Z","privileges":["read","update","delete","publish","change_owner"]},"qData":[]}
+{"qInfo":{"qId":"cwbA","qType":"dimension"},"qMeta":{"title":"Name","description":"","tags":[],"_resourcetype":"app.object","_objecttype":"dimension","id":"cwbA","approved":false,"published":false,"owner":"auth0|a08D000001F1roDIAR","ownerId":"62c3181d0ccb314049aba5a0","createdDate":"2022-11-08T01:06:23.120Z","modifiedDate":"2022-11-08T01:06:23.120Z","privileges":["read","update","delete","publish","change_owner"]},"qData":[]}
+{"qInfo":{"qId":"02f4e798-091b-4b8f-b6a3-c62ffb343b40","qType":"dimension"},"qMeta":{"title":"Company","description":"","tags":[],"_resourcetype":"app.object","_objecttype":"dimension","id":"02f4e798-091b-4b8f-b6a3-c62ffb343b40","approved":false,"published":false,"owner":"auth0|a08D000001F1roDIAR","ownerId":"62c3181d0ccb314049aba5a0","createdDate":"2022-11-08T01:06:23.120Z","modifiedDate":"2022-11-08T01:06:23.120Z","privileges":["read","update","delete","publish","change_owner"]},"qData":[]}
+
+MEASURES
+{"qInfo":{"qId":"ecd590f6-1ac5-40f1-9eec-ef9f8cc9be89","qType":"measure"},"qMeta":{"title":"Fastest Player Company","description":"","tags":[],"_resourcetype":"app.object","_objecttype":"measure","id":"ecd590f6-1ac5-40f1-9eec-ef9f8cc9be89","approved":false,"published":false,"owner":"auth0|a08D000001F1roDIAR","ownerId":"62c3181d0ccb314049aba5a0","createdDate":"2022-11-08T01:09:24.120Z","modifiedDate":"2022-11-08T01:09:39.503Z","privileges":["read","update","delete","publish","change_owner"]},"qData":[]}
+{"qInfo":{"qId":"DtmmQ","qType":"measure"},"qMeta":{"title":"Most Popular Driver","description":"","tags":[],"_resourcetype":"app.object","_objecttype":"measure","id":"DtmmQ","approved":false,"published":false,"owner":"auth0|a08D000001F1roDIAR","ownerId":"62c3181d0ccb314049aba5a0","createdDate":"2022-11-08T00:31:31.250Z","modifiedDate":"2022-11-08T00:31:31.250Z","privileges":["read","update","delete","publish","change_owner"]},"qData":[]}
+{"qInfo":{"qId":"mUMLUCn","qType":"measure"},"qMeta":{"title":"Fastest Player","description":"","tags":[],"_resourcetype":"app.object","_objecttype":"measure","id":"mUMLUCn","approved":false,"published":false,"owner":"auth0|a08D000001F1roDIAR","ownerId":"62c3181d0ccb314049aba5a0","createdDate":"2022-11-08T00:31:25.901Z","modifiedDate":"2022-11-08T00:31:25.901Z","privileges":["read","update","delete","publish","change_owner"]},"qData":[]}
+{"qInfo":{"qId":"CJFHqc","qType":"measure"},"qMeta":{"title":"Time to Beat","description":"","tags":[],"_resourcetype":"app.object","_objecttype":"measure","id":"CJFHqc","approved":false,"published":false,"owner":"auth0|a08D000001F1roDIAR","ownerId":"62c3181d0ccb314049aba5a0","createdDate":"2022-11-08T00:31:20.575Z","modifiedDate":"2022-11-08T00:31:20.575Z","privileges":["read","update","delete","publish","change_owner"]},"qData":[]}
+{"qInfo":{"qId":"qDYJJj","qType":"measure"},"qMeta":{"title":"Number of Races","description":"","tags":[],"_resourcetype":"app.object","_objecttype":"measure","id":"qDYJJj","approved":false,"published":false,"owner":"auth0|a08D000001F1roDIAR","ownerId":"62c3181d0ccb314049aba5a0","createdDate":"2022-11-08T00:31:15.255Z","modifiedDate":"2022-11-08T00:31:15.255Z","privileges":["read","update","delete","publish","change_owner"]},"qData":[]}
+
+VARIABLES
+{"qName":"DISABLE_INSIGHTS","qDefinition":"1","qMeta":{"privileges":["read","update","delete"]},"qInfo":{"qId":"80e7a2eb-4145-408e-b685-73ee9e4a2dc8","qType":"variable"},"qData":[]}
+
+FIELDS
+{"qIsHidden":true,"qIsSystem":true,"qName":"$Field","qCardinal":12,"qTags":["$key","$hidden","$system","$ascii","$text"],"qSrcTables":[]}
+{"qIsHidden":true,"qIsSystem":true,"qName":"$Table","qCardinal":1,"qTags":["$key","$hidden","$system","$ascii","$text"],"qSrcTables":[]}
+{"qIsHidden":true,"qIsSystem":true,"qName":"$Rows","qCardinal":1,"qTags":["$hidden","$system","$numeric","$integer"],"qSrcTables":[]}
+{"qIsHidden":true,"qIsSystem":true,"qName":"$Fields","qCardinal":1,"qTags":["$hidden","$system","$numeric","$integer"],"qSrcTables":[]}
+{"qIsHidden":true,"qIsSystem":true,"qName":"$FieldNo","qCardinal":12,"qTags":["$hidden","$system","$numeric","$integer"],"qSrcTables":[]}
+{"qIsHidden":true,"qIsSystem":true,"qName":"$Info","qCardinal":1,"qTags":["$hidden","$system","$ascii","$text"],"qSrcTables":[]}
+{"qName":"Name","qCardinal":29,"qTags":["$ascii","$text"],"qSrcTables":["Competition"]}
+{"qName":"Email","qCardinal":13,"qTags":["$ascii","$text"],"qSrcTables":["Competition"]}
+{"qName":"Company","qCardinal":25,"qTags":["$ascii","$text"],"qSrcTables":["Competition"]}
+{"qName":"Track","qCardinal":1,"qTags":["$ascii","$text"],"qSrcTables":["Competition"]}
+{"qName":"Driver","qCardinal":4,"qTags":["$ascii","$text"],"qSrcTables":["Competition"]}
+{"qName":"Minutes","qCardinal":3,"qTags":["$numeric","$integer"],"qSrcTables":["Competition"]}
+{"qName":"Seconds","qCardinal":22,"qTags":["$numeric","$integer"],"qSrcTables":["Competition"]}
+{"qName":"Miliseconds","qCardinal":26,"qTags":["$numeric","$integer"],"qSrcTables":["Competition"]}
+{"qName":"Confirmed","qCardinal":1,"qTags":["$ascii","$text"],"qSrcTables":["Competition"]}
+{"qName":"Notifications","qCardinal":1,"qTags":["$ascii","$text"],"qSrcTables":["Competition"]}
+{"qName":"Course Time","qCardinal":29,"qTags":["$numeric"],"qSrcTables":["Competition"]}
+{"qName":"Course Time (Seconds)","qCardinal":29,"qTags":["$numeric"],"qSrcTables":["Competition"]}
